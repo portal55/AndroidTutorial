@@ -5,8 +5,18 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_display_message">My Message</string>
     <string name="hello_world">Hello world!</string>
+
+    <color name="myColor">#FA3802</color>
+
+    <string name="miles">to Miles</string>
+    <string name="kmh">to Kilometers</string>
+    <string name="calc">Calculate</string>
+    <string name="edit_distance">Enter a distance</string>
+    <string name="title_activity_convert_distance">MainActivity</string>
+    <string name="title_activity_convert_distance_activity">MainActivity</string>
 
 </resources>

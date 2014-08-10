@@ -23,6 +23,8 @@ public class DisplayMessageActivity extends ActionBarActivity {
 		textView.setText(message);
 		
 		setContentView(textView);
+		
+
 	}
 
 	@Override

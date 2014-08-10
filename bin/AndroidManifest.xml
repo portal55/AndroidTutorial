@@ -30,6 +30,22 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.myfirstapp.MainActivity" />
         </activity>
+        <activity
+            android:name=".ConvertDistanceActivity"
+            android:label="@string/title_activity_convert_distance"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myfirstapp.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ConvertDistanceActivityActivity"
+            android:label="@string/title_activity_convert_distance_activity"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myfirstapp.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
